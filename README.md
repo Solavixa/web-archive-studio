@@ -4,7 +4,7 @@
 
 Solavixa Web Archive Studio is a Windows desktop application designed for high-quality archiving of web content and AI conversations.
 
-![Solavixa Web Archive Studio](images/swa_preview.png)
+![Solavixa Web Archive Studio](images/SWA_preview.png)
 
 ## Features
 
