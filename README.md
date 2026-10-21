@@ -1,10 +1,10 @@
-# Solavixa Web Archive Studio
+# Solavixa Web Archive
 
 **Archive websites and AI conversations into durable, portable documents.**
 
-Solavixa Web Archive Studio is a Windows desktop application designed for high-quality archiving of web content and AI conversations.
+Solavixa Web Archive is a Windows desktop application designed for high-quality archiving of web content and AI conversations.
 
-![Solavixa Web Archive Studio](images/SWA_preview.png)
+![Solavixa Web Archive Studio](images/Solavixa_SWA_2.1.png)
 
 ## Features
 
@@ -14,6 +14,11 @@ Solavixa Web Archive Studio is a Windows desktop application designed for high-q
 - OCR image-to-DOCX workflow
 - Preserve mathematical expressions, symbols and visual elements
 - Process content locally on your Windows PC
+- Safe archive cancellation with recovery/resume support
+- ChatGPT export ZIP processing
+- Resume interrupted archive sessions
+- Bundled Chromium for web capture
+- Built-in OCR components
 
 ![Solavixa Web Archive Studio](images/ocr_to_docx.png)
 
@@ -21,7 +26,7 @@ Solavixa Web Archive Studio is a Windows desktop application designed for high-q
 
 The official Windows installer is available in the **Releases** section of this repository.
 
-Current stable release: **Solavixa Web Archive Studio 1.1**
+Current stable release: **Solavixa Web Archive 2.1**
 
 ## Trial and Licensing
 
